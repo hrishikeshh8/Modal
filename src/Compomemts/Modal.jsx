@@ -1,6 +1,7 @@
 
 
-const Modal = ({closeModal}) => {
+const Modal = (closeModal) => {
+   
   
   return (
    <div className="modalBackground">

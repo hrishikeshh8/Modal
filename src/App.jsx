@@ -2,7 +2,7 @@ import { useState } from 'react';
 import Modal from './Compomemts/Modal';
 import './App.css'
 
-function App({closeModal}) {
+function App() {
   const[openModal, setOpenmodal] =useState(false)
 
   return (
